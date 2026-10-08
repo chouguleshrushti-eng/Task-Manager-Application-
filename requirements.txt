@@ -1,0 +1,2 @@
+# No third-party dependencies.
+# This app uses only the Python 3 standard library (tkinter, json, os, datetime).
